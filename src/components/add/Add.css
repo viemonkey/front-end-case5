@@ -1,0 +1,16 @@
+.inp-add-post {
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    box-shadow: 1px 2px 9px rgb(140, 140, 140);
+}
+
+.input {
+    padding: 20px !important; 
+    width: 40vw;
+}
+
+.MuiOutlinedInput-input.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input{
+    background-color: rgb(238, 238, 238);
+    border-radius: 100px 100px 100px 100px !important;
+}
